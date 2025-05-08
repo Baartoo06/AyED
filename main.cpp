@@ -1,5 +1,3 @@
-//crea un programa que muestre "Hola [Tu nombre]"
-
 #include <iostream>
 
 using namespace std;
